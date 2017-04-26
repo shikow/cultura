@@ -125,18 +125,6 @@
      <changefreq>daily</changefreq>
     </url>
         
-    <url>
-     <loc>/postmortem/degradacoes/20170701x/</loc>
-     <lastmod>2017-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
-    <url>
-     <loc>/postmortem/indisponibilidades/20170701y/</loc>
-     <lastmod>2017-04-25</lastmod>
-     <changefreq>daily</changefreq>
-    </url>
-        
     
 
 </urlset>

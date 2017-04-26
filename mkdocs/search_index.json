@@ -359,26 +359,6 @@
             "location": "/postmortem/#historico",
             "text": "2017-07-01 - Degrada\u00e7\u00e3o do servi\u00e7o x  2017-07-01 - Indisponibilidade do servi\u00e7o y",
             "title": "Hist\u00f3rico"
-        },
-        {
-            "location": "/postmortem/degradacoes/20170701x/",
-            "text": "O Servico X",
-            "title": "Degrada\u00e7\u00f5es"
-        },
-        {
-            "location": "/postmortem/degradacoes/20170701x/#o-servico-x",
-            "text": "",
-            "title": "O Servico X"
-        },
-        {
-            "location": "/postmortem/indisponibilidades/20170701y/",
-            "text": "O Servi\u00e7o Y",
-            "title": "Indisponibilidades"
-        },
-        {
-            "location": "/postmortem/indisponibilidades/20170701y/#o-servico-y",
-            "text": "",
-            "title": "O Servi\u00e7o Y"
         }
     ]
 }
